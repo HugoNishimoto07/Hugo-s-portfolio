@@ -13,7 +13,7 @@
 
 -> Java
 
--> SQL
+-> SQL(MySQL)
 
 -> Haskell
 
