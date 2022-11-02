@@ -15,5 +15,7 @@
 
 -> SQL(MySQL)
 
+-> Python
+
 -> Haskell
 
